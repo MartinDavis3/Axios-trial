@@ -1,0 +1,26 @@
+{
+    "people": [
+        {
+            "name": "Sarah",
+            "age": 45
+        },
+        {
+            "name": "Bill",
+            "age": 60
+        },
+        {
+            "name": "Sam",
+            "age": 32
+        }
+    ],
+    "classes": [
+        {
+            "name": "c# Programming Fundamentals",
+            "capacity": 8
+        },
+        {
+            "name": "DOM Manipulation Using JavaScript",
+            "capacity": 12
+        }
+    ]
+}
